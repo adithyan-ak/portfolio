@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Adithyan is a Security engineer who specializes in Offensive Security, Penetration testing,
-        Red Teaming, Design/Code Reviews and Threat Modeling. Currently, I’m working as Product
-        Security Engineer at{' '}
+        I'm a Security engineer who specializes in Offensive Security, Penetration testing, Red
+        Teaming, Design/Code Reviews and Threat Modeling. Currently, I’m working as Product Security
+        Engineer at{' '}
         <a href="https://salesforce.com/" target="_blank" rel="noreferrer">
           Salesforce
         </a>
